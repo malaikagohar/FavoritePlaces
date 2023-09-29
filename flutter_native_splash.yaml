@@ -1,0 +1,5 @@
+flutter_native_splash:
+  image: assets/favorite_places.png
+  color: "#ffffff"
+  android_gravity: "center"
+  ios_content_mode: "scaleAspectFill"
